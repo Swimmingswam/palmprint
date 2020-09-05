@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc0c988-8fb2-40a6-86f2-966436039488" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/keras-oneshot/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keras-oneshot/palmprint/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras-oneshot/SiameseNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/keras-oneshot/SiameseNet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras-oneshot/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/keras-oneshot/load_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras-oneshot/vis_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/keras-oneshot/vis_utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/keras-oneshot" />
+  </component>
+  <component name="ProjectId" id="1g4o0fAsBFFULa34vYMR7Jvpt4h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc0c988-8fb2-40a6-86f2-966436039488" name="Default Changelist" comment="" />
+      <created>1597383003933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597383003933</updated>
+    </task>
+    <servers />
+  </component>
+</project>
